@@ -1,0 +1,5 @@
+.idea/
+node_modules
+*.http
+bookshelf-api.postman_collection.json
+bookshelf-api.postman_environment.json
